@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <VJTemplates_OnSaleVertCarousel>
+            <active>true</active>
+            <codePool>community</codePool>
+        </VJTemplates_OnSaleVertCarousel>
+    </modules>
+</config> 
