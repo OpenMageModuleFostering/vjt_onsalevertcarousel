@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>vjt_onsalevertcarousel</name>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <stability>stable</stability>
     <license>GPL</license>
     <channel>community</channel>
@@ -11,8 +11,8 @@
     <notes>Initial Release</notes>
     <authors><author><name>VJ Templates</name><user>vjtemplates</user><email>vjt@vjtemplates.com</email></author></authors>
     <date>2012-09-26</date>
-    <time>15:53:26</time>
-    <contents><target name="magecommunity"><dir name="VJTemplates"><dir name="OnSaleVertCarousel"><dir name="Block"><dir name="Category"><file name="View.php" hash="85c92a409c24d6ae75a709b6ccedc188"/></dir><dir name="Product"><file name="OnSale.php" hash="c28f3366033ae183a9ebcc88e13b1e74"/></dir></dir><dir name="etc"><file name="config.xml" hash="4fc57b68643f4d75baf0a864dd76b6d5"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="vjtemplates"><file name="onsalevertcarousel.xml" hash="c78655c26a88cc8db7bceb5fc761929c"/></dir></dir><dir name="template"><dir name="vjtemplates"><dir name="catalog"><dir name="product"><file name="onsale-vert-carousel.phtml" hash="4da9ee56d7d3bf4b01046643673b7f1f"/></dir></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="VJTemplates_OnSaleVertCarousel.xml" hash="5c5835c90953dbe3288def3387ac67b1"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="vjtemplates"><dir name="css"><file name="onsale-vert-carousel.css" hash="3cf2277f0b68e9c0ddbe87c1909aa5df"/></dir><dir name="images"><file name="next-vertical.png" hash="212fd0ed9d02dd77508cbc398e6b36ea"/><file name="prev-vertical.png" hash="360f02103258cc26eea3683da5605e89"/></dir><dir name="js"><file name="onsale-carousel.js" hash="678439bb3993ebf66629e23b59d8c811"/></dir></dir></dir></dir></dir></target><target name="mage"><dir name="js"><dir name="jquery"><file name="jquery-1.6.4.min.js" hash="0bd074f6e49da04536b3ce289e3f7448"/></dir></dir></target></contents>
+    <time>16:12:04</time>
+    <contents><target name="magecommunity"><dir name="VJTemplates"><dir name="OnSaleVertCarousel"><dir name="Block"><dir name="Category"><file name="View.php" hash="85c92a409c24d6ae75a709b6ccedc188"/></dir><dir name="Product"><file name="OnSale.php" hash="6fdad0f849df475a14be1bdbf4405e8d"/></dir></dir><dir name="etc"><file name="config.xml" hash="629351989b36c4c0769147f62cac89b2"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="vjtemplates"><file name="onsalevertcarousel.xml" hash="c78655c26a88cc8db7bceb5fc761929c"/></dir></dir><dir name="template"><dir name="vjtemplates"><dir name="catalog"><dir name="product"><file name="onsale-vert-carousel.phtml" hash="4da9ee56d7d3bf4b01046643673b7f1f"/></dir></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="VJTemplates_OnSaleVertCarousel.xml" hash="5c5835c90953dbe3288def3387ac67b1"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="vjtemplates"><dir name="css"><file name="onsale-vert-carousel.css" hash="3cf2277f0b68e9c0ddbe87c1909aa5df"/></dir><dir name="images"><file name="next-vertical.png" hash="212fd0ed9d02dd77508cbc398e6b36ea"/><file name="prev-vertical.png" hash="360f02103258cc26eea3683da5605e89"/></dir><dir name="js"><file name="onsale-carousel.js" hash="678439bb3993ebf66629e23b59d8c811"/></dir></dir></dir></dir></dir></target><target name="mage"><dir name="js"><dir name="jquery"><file name="jquery-1.6.4.min.js" hash="0bd074f6e49da04536b3ce289e3f7448"/></dir></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
